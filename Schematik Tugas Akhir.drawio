@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Halaman-1" id="wz643uitqV6x9M3JjWBv">
-    <mxGraphModel dx="748" dy="375" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1229" dy="616" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,6 +83,21 @@
           <mxGeometry relative="1" x="-0.4629" y="1" as="geometry">
             <mxPoint y="-2" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="k7IYN1bAiisBZ8hD4a5z-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="&lt;font&gt;FireBeetle ESP32-P4&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="136" x="281" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="k7IYN1bAiisBZ8hD4a5z-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="&lt;font&gt;USB Type C&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="79" x="63.5" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="k7IYN1bAiisBZ8hD4a5z-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="&lt;font&gt;Switch&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="63" x="157.5" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="k7IYN1bAiisBZ8hD4a5z-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="&lt;font&gt;OV5640 Camera&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="79" x="382" y="267.5" as="geometry" />
+        </mxCell>
+        <mxCell id="k7IYN1bAiisBZ8hD4a5z-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);" value="&lt;font&gt;LED Flash&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="79" x="632" y="284" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
